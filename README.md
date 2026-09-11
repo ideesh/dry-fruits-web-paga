@@ -1,1 +1,1 @@
-# dry-fruits-web-paga
+# dry-fruits-web-page
